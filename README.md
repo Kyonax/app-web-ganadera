@@ -1,2 +1,8 @@
-# app-web-ganadera
-Proyecto de aplicación Web para gestionar el Ganado de una Empresa.
+# App Web Ganadera MinTIC
+
+<p align="center">
+  <img src="https://i.pinimg.com/564x/bf/58/93/bf5893db0ede755dcd1ff33d278334ab.jpg">
+    <br>    
+</p>
+
+---
