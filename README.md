@@ -10,8 +10,8 @@
 Proyecto de aplicación Web para gestionar el Ganado de una Empresa, siendo como ente patrocinador el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC) para
 su completo desarrollo por parte del **equipo número 2 conjunto 35 del programa Mision TIC 2022.**
 
---
 
+---
 ## Equipo de Trabajo
 
 | Nombre              |            Correo             |              Cargo |
