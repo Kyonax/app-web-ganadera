@@ -12,6 +12,19 @@ su completo desarrollo por parte del **equipo número 2 conjunto 35 del programa
 
 ---
 
+## Proceso de Proyecto
+
+**El proyecto/split se dividirá** en Fases de Desarrollo en las cuáles iremos observando el avance del proyecto, las ideas y problemas que se vayan presentado al grupo de igual manera.
+
+#### Fase #1
+
+**Análisis de Desarrollo** En esta fase nos enfocaremos en analisar la estructura de Backend y Frontend del proyecto, para saber qué recursos necesitaremos, cómo lo dsitribuiremos, y cómo se
+ejecutará el flijo de trabajo.
+
+- **Carpeta con la Información de la Fase 1** [Estructura de Desarrollo (misc)]()
+
+---
+
 ## Equipo de Trabajo
 
 | Nombre                                           |            Correo             |              Cargo | Repositorios                                                                         | Proyectos                                                             |
