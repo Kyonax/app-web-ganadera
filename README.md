@@ -18,7 +18,7 @@ su completo desarrollo por parte del **equipo número 2 conjunto 35 del programa
 
 #### Fase #1
 
-**Análisis de Desarrollo** En esta fase nos enfocaremos en analisar la estructura de Backend y Frontend del proyecto, para saber qué recursos necesitaremos, cómo lo dsitribuiremos, y cómo se
+**Análisis de Desarrollo** En esta fase nos enfocaremos en analisar la estructura de Backend y Frontend del proyecto, para saber qué recursos necesitaremos, cómo lo distribuiremos, y cómo se
 ejecutará el flijo de trabajo.
 
 - **Carpeta con la Información de la Fase 1** [Estructura de Desarrollo (misc)](https://github.com/Kyonax/app-web-ganadera/tree/main/misc)
