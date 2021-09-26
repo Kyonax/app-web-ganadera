@@ -18,7 +18,7 @@ su completo desarrollo por parte del **Equipo 35 del programa Mision TIC 2022.**
 
 #### Fase #1
 
-**Análisis de Desarrollo** En esta fase nos enfocamos en analizar y realizar la estructura, el Diagrama de Clases, los Requisitos de Usuario e Historias de Usuario, siendo esta la documentación necesaria, nuestra plantilla, que servira para comenzar con la implementación del código. 
+**Análisis de Desarrollo** En esta fase nos enfocamos en realizar la Estructura, el Diagrama de Clases, los Requisitos de Usuario y las Historias de Usuario, siendo la documentación necesaria _(Nuestra plantilla)_, que servira para comenzar con la implementación del código. 
 
 - **Historias de Usuario** [Documento PDF - Doc_Historias_De_Usuario_Grupo35](https://github.com/Kyonax/app-web-ganadera/blob/main/misc/DocumentaciónSW/Doc_Historias_De_Usuario_Grupo35.pdf)
 - **Requisitos del Programa** [Documento PDF - Doc_Requisitos_De_Usuario_Grupo35.pdf](https://github.com/Kyonax/app-web-ganadera/blob/main/misc/DocumentaciónSW/Doc_Requisitos_De_Usuario_Grupo35.pdf)
@@ -27,7 +27,9 @@ su completo desarrollo por parte del **Equipo 35 del programa Mision TIC 2022.**
 
 #### Fase #2
 
-**Implementación y Ejecución del código** 
+**Implementación y Ejecución del código**  En esta fase estaremos realizando la implementación del código base.com
+
+- **Código Base** [App Web Ganadera - Ganaderia.App](https://github.com/Kyonax/app-web-ganadera/tree/main/src/Ganaderia.App)
 
 ---
 
