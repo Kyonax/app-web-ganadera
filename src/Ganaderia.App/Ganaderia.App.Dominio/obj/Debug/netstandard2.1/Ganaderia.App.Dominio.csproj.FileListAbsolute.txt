@@ -1,0 +1,9 @@
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.deps.json
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfo.cs
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb

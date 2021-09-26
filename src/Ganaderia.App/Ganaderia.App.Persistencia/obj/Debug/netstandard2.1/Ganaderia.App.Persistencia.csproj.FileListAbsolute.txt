@@ -1,0 +1,12 @@
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfo.cs
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.deps.json
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
