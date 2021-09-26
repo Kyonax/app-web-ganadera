@@ -20,9 +20,10 @@ su completo desarrollo por parte del **Equipo 35 del programa Mision TIC 2022.**
 
 **Análisis de Desarrollo** En esta fase nos enfocamos en analizar y realizar la estructura, el Diagrama de Clases, los Requisitos de Usuario e Historias de Usuario, siendo esta la documentación necesaria, nuestra plantilla, que servira para comenzar con la implementación del código. 
 
-- **Historias de Usuario** [Estructura de Desarrollo (misc)](https://github.com/Kyonax/app-web-ganadera/tree/main/misc)
-- **Requisitos del Programa** [Estructura]()
-- **Diagrama de Clases** [Estructura]()
+- **Historias de Usuario** [Documento PDF - Doc_Historias_De_Usuario_Grupo35](https://github.com/Kyonax/app-web-ganadera/blob/main/misc/DocumentaciónSW/Doc_Historias_De_Usuario_Grupo35.pdf)
+- **Requisitos del Programa** [Documento PDF - Doc_Requisitos_De_Usuario_Grupo35.pdf](https://github.com/Kyonax/app-web-ganadera/blob/main/misc/DocumentaciónSW/Doc_Requisitos_De_Usuario_Grupo35.pdf)
+- **Diagrama de Clases** [Documento PDF - Doc_Diagrama_De_Clases_Grupo35.pdf](https://github.com/Kyonax/app-web-ganadera/blob/main/misc/DocumentaciónSW/Doc_Diagrama_De_Clases_Grupo35.pdf)
+- **Mockup V1 - SysGan** [Documento PDF - Mockup_UI_App_v1.pdf](https://github.com/Kyonax/app-web-ganadera/blob/main/misc/EstructuraUI/Mockup_UI_App_v1.pdf)
 
 #### Fase #2
 
