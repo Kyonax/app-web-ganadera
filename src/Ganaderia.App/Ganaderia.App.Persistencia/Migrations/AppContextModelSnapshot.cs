@@ -28,7 +28,7 @@ namespace Ganaderia.App.Persistencia.Migrations
                     b.Property<string>("Apellido")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Contraseña")
+                    b.Property<string>("Contrasena")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Correo")

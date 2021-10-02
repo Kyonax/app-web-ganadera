@@ -1,7 +1,7 @@
-using Microsoft.EntityFrameworkCore;
 using Ganaderia.App.Dominio;
+using Microsoft.EntityFrameworkCore;
 
-namespace Ganaderia.App.Persistencia 
+namespace Ganaderia.App.Persistencia
 {
     public class AppContext : DbContext
     {

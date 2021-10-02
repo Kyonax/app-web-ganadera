@@ -1,68 +1,68 @@
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.exe
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.deps.json
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.runtimeconfig.json
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.runtimeconfig.dev.json
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.pdb
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Persistencia.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.pdb
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Persistencia.pdb
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.csprojAssemblyReference.cache
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.AssemblyInfoInputs.cache
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.AssemblyInfo.cs
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.csproj.CoreCompileInputs.cache
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.csproj.CopyComplete
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.dll
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.pdb
-D:\UNIVERSIDAD\UCALDAS\2021\Ciclo 3\Desarrollo de Software\Semana 3\Actividades\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.genruntimeconfig.cache
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.exe
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.deps.json
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.runtimeconfig.json
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.runtimeconfig.dev.json
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Consola.pdb
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Persistencia.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.pdb
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\bin\Debug\netcoreapp3.1\Ganaderia.App.Persistencia.pdb
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.csprojAssemblyReference.cache
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.AssemblyInfoInputs.cache
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.AssemblyInfo.cs
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.csproj.CoreCompileInputs.cache
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.csproj.CopyComplete
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.dll
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.pdb
+D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Consola\obj\Debug\netcoreapp3.1\Ganaderia.App.Consola.genruntimeconfig.cache
