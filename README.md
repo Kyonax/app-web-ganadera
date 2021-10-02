@@ -1,7 +1,7 @@
 # App Web Ganadera MinTIC
 
 <p align="center">
-  <img src="https://github.com/Kyonax/app-web-ganadera/blob/main/misc/Github/Images/Image_Github_App_Web.png">
+  <img src="https://github.com/Kyonax/app-web-ganadera/blob/main/misc/Github/Images/Image_GitHub_App_Web.png">
     <br>    
 </p>
 
