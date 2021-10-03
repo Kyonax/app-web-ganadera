@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKai/0OLvaUy5rcVkMV1QXJ9PB2pgF/fpdCOG10RujQH7AmlY/F8xorvuehNbNNPFx07ePwZrIw3kfx2aGSUlw==",
+  "dgSpecHash": "5J2YvQBQOr0HmDyJsOztbwneKCkEaTehB75mecyrR1aKVQv0xo5IxLoep5Swl64eJilfS7a7bwKpEMNFInfBRg==",
   "success": true,
-  "projectFilePath": "D:\\MINTIC\\Grupo35\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+  "projectFilePath": "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,13 @@
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\bin\Debug\netcoreapp3.1\src.exe
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\bin\Debug\netcoreapp3.1\src.deps.json
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.json
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.dev.json
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\bin\Debug\netcoreapp3.1\src.dll
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\bin\Debug\netcoreapp3.1\src.pdb
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\obj\Debug\netcoreapp3.1\src.csprojAssemblyReference.cache
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\obj\Debug\netcoreapp3.1\src.AssemblyInfoInputs.cache
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\obj\Debug\netcoreapp3.1\src.AssemblyInfo.cs
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\obj\Debug\netcoreapp3.1\src.csproj.CoreCompileInputs.cache
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\obj\Debug\netcoreapp3.1\src.dll
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\obj\Debug\netcoreapp3.1\src.pdb
+D:\Programación\University\app-web-ganadera\test\Cristian_Moreno\src\obj\Debug\netcoreapp3.1\src.genruntimeconfig.cache
