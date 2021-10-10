@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Kyonax\\.nuget\\packages\\": {}
+    "C:\\Users\\HEARK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+      "projectUniqueName": "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera-1\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
       "projectName": "Ganaderia.App.Dominio",
-      "projectPath": "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\Kyonax\\.nuget\\packages\\",
-      "outputPath": "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\obj\\",
+      "projectPath": "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera-1\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\HEARK\\.nuget\\packages\\",
+      "outputPath": "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera-1\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kyonax\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HEARK\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"

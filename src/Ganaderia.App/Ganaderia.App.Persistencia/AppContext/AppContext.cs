@@ -5,7 +5,7 @@ namespace Ganaderia.App.Persistencia
 {
     public class AppContext : DbContext
     {
-        public DbSet<Persona> Personas { get; set; }
+        public DbSet<User> Users { get; set; }
         public DbSet<Ganadero> Ganaderos { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Ganaderia.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20210921122819_Inicial2")]
-    partial class Inicial2
+    [Migration("20211009205040_pruebag1")]
+    partial class pruebag1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -20,42 +20,48 @@ namespace Ganaderia.App.Persistencia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
 
-            modelBuilder.Entity("Ganaderia.App.Dominio.Persona", b =>
+            modelBuilder.Entity("Ganaderia.App.Dominio.User", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("Apellido")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Contrasena")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Correo")
+                    b.Property<string>("Adress")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Discriminator")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Nombre")
+                    b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("NumeroTelefono")
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("IdUser")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NumCel")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("lastName")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Personas");
+                    b.ToTable("Users");
 
-                    b.HasDiscriminator<string>("Discriminator").HasValue("Persona");
+                    b.HasDiscriminator<string>("Discriminator").HasValue("User");
                 });
 
             modelBuilder.Entity("Ganaderia.App.Dominio.Ganadero", b =>
                 {
-                    b.HasBaseType("Ganaderia.App.Dominio.Persona");
+                    b.HasBaseType("Ganaderia.App.Dominio.User");
 
                     b.Property<float>("Latitud")
                         .HasColumnType("real");
