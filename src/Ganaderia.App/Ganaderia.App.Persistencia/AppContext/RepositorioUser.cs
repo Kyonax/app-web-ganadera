@@ -32,19 +32,19 @@ namespace Ganaderia.App.Persistencia
             return _appContext.Users;
         }
 
-        User IRepositorioUser.GetUser(string idUser)
+        User IRepositorioUser.GetUser(string id)
         {
-            return _appContext.Users.FirstOrDefault(g => g.IdUser == idUser);
+            return _appContext.Users.FirstOrDefault(g => g.ID == id);
         }
 
         User IRepositorioUser.UpdateUser(User user)
         {
-            var userEncontrado = _appContext.Users.FirstOrDefault(g => g.IdUser == user.IdUser);
+            var userEncontrado = _appContext.Users.FirstOrDefault(g => g.ID == user.ID);
 
             if (userEncontrado != null)
             {
                 userEncontrado.FirstName = user.FirstName;
-                userEncontrado.lastName = user.lastName;
+                userEncontrado.LastName = user.LastName;
 
                 ///////////////////////////////////////////////
 
@@ -54,8 +54,8 @@ namespace Ganaderia.App.Persistencia
             return userEncontrado;
         }
 
-        void IRepositorioUser.DeleteUser(string idUser) {
-            var userEncontrado = _appContext.Users.FirstOrDefault(g => g.IdUser == idUser);
+        void IRepositorioUser.DeleteUser(string id) {
+            var userEncontrado = _appContext.Users.FirstOrDefault(g => g.ID == id);
 
             if (userEncontrado != null)
             {

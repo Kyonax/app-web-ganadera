@@ -4,7 +4,56 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/index.css">
+    <link rel="stylesheet" href="~/css/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@1,75,800&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="izquierda">
+        <div class="fondo">
+            <img src="~/css/images/Cow.jpg" alt="">
+        </div>
+        <div class="izquierda_imglogo">
+            <img id="vaca" src="~/css/images/vaca.png" alt="">
+            <h1 class="titulo">SysGan</h1>
+        </div>
+    </div>
+
+    <div class="derecha">
+        <form>
+            <div class="derecha__titulo">
+                <h2>Bienvenido/a</h2>
+                <label for="correo">Email</label>
+                <input type="text" name="correo" placeholder="Ingresa tu correo" />
+            </div>
+            <div class="derecha_contrasena">
+                <label for="contrasena">Contraseña</label>
+                <input type="password" name="contrasena" placeholder="Ingresa tu contraseña">
+            </div>
+            <div class="boton">
+                <button type="button">Iniciar sesión</button>
+            </div>
+            <div class="recuperacion">
+                <a href="">Olvidaste tu contraseña?</a>
+            </div>
+            <div class="registro">
+                <a asp-area="" asp-page="/Seleccion_reg/Seleccion_reg">Registrarse</a>
+            </div>
+        </form>
+    </div>
+    <footer>
+        Copyright - SysGan 2021
+    </footer>
+</body>
+
+</html>

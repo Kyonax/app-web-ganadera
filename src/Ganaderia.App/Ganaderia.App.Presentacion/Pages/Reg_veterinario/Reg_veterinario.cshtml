@@ -1,0 +1,73 @@
+﻿@page
+@model Ganaderia.App.Presentacion.Pages.Reg_veterinarioModel
+@{
+}
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@1,75,800&display=swap" rel="stylesheet">    <title>SysGan</title>
+    <link rel="stylesheet" href="~/css/RVeterinario.css" />
+    <link rel="stylesheet" href="~/css/normalize.css" />
+</head>
+<body>
+    <div class="izquierda">
+        <div class="fondo">
+            <img src="~/css/images/Cow.jpg" alt="">
+        </div>
+        <div class="izquierda_imglogo">
+            <img id="vaca" src="~/css/images/vaca.png" alt="">
+            <h1 class="titulo">SysGan</h1>
+        </div>
+    </div>
+
+    <div class="derecha">
+        <div class="form__container">
+            <h2>¡Hola veterinario!</h2>
+            <h2>Bienvenido/a</h2>
+            <h3>Por favor diligencia los siguientes datos:</h3>
+            <form >
+                <div><label for="Nombre">Nombre</label>
+                    <input type="text" placeholder="ingresa tus nombres">
+                </div>
+
+                <div><label for="Apellidos">Apellidos</label>
+                    <input type="text" placeholder="ingresa tus apellidos">
+                </div>
+
+                <div><label for="Cedula">Cédula</label>
+                    <input type="text" placeholder="ingresa tu cedula">
+                </div>
+                <div><label for="Ciudad">Ciudad de residencia</label>
+                    <input type="text" placeholder="ingresa la ciudad donde resides">
+                </div>
+                <div><label for="NtarjetaProfesional">N° tarjeta profesional</label>
+                    <input type="text" placeholder="ingresa tu N°TP">
+                </div>
+
+                <div><label for="Email">Email</label>
+                    <input type="email" placeholder="ingresa tu correo">
+                </div>
+
+                <div><label for="Contrasena">Contraseña</label
+                    ><input type="password" placeholder="ingresa tu contraseña">
+                </div>
+
+                <div><label for="CContrasena">Confirma tu contraseña</label>
+                    <input type="password" placeholder="ingresa tu contraseña">
+                </div>
+
+               
+            </form>
+            <div class="boton">
+                <button type="button">Registrarse</button>
+            </div>
+        </div>
+    </div>
+    <footer>
+        Copyright - SysGan 2021
+    </footer>
+</body>

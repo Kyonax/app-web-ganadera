@@ -1,0 +1,51 @@
+﻿@page
+@model Ganaderia.App.Presentacion.Pages.Seleccion_regModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Seleccion_Reg.css" />
+    <link rel="stylesheet" href="~/css/normalize.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@1,75,800&display=swap" rel="stylesheet">    <title>SysGan</title>
+    <link rel="icon" href="vaca.ico">
+</head>
+<body>
+    <div class="izquierda">
+        <div class="fondo">
+            <img src="~/css/images/Cow.jpg" alt="">
+        </div>
+        <div class="izquierda_imglogo">
+            <img id="vaca" src="~/css/images/vaca.png" alt="">
+            <h1 class="titulo">SysGan</h1>
+        </div>
+    </div>
+
+    <div class="derecha">
+        <form>
+            <div class="derecha__titulo">
+                <h2>Quien eres?</h2>
+            </div>
+            <div class="boton_ganadero">
+                <button type="button"><a class="reg" asp-page="/Reg_ganadero/Reg_ganadero">Ganadero</a></button>
+            </div>
+            <div class="division">
+                <p>_____________ ó _____________<p>
+            </div>
+            <div class="boton_veterinario">
+                <button type=""><a class="reg" asp-page="/Reg_veterinario/Reg_veterinario">Veterinario</a></button>
+            </div>
+            <div class="retorno">
+                <a asp-page="/Index">Volver</a>
+            </div>
+        </form>
+    </div>
+    <footer>
+        Copyright - SysGan 2021
+    </footer>
+</body>
+</html>

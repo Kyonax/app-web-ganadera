@@ -10,7 +10,6 @@ D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netsta
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.deps.json
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
-D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csprojAssemblyReference.cache
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfoInputs.cache
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfo.cs
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.CoreCompileInputs.cache
@@ -25,3 +24,5 @@ D:\U-CALDAS\SICLO 3\SEMANA 4\app-web-ganadera-1\src\Ganaderia.App\Ganaderia.App.
 D:\U-CALDAS\SICLO 3\SEMANA 4\app-web-ganadera-1\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.CoreCompileInputs.cache
 D:\U-CALDAS\SICLO 3\SEMANA 4\app-web-ganadera-1\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
 D:\U-CALDAS\SICLO 3\SEMANA 4\app-web-ganadera-1\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.AssemblyReference.cache
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig

@@ -29,12 +29,14 @@ namespace Ganaderia.App.Consola
         {
             User user = new User 
             {
+                ID = "#001",
                 FirstName = "Andres",
-                lastName = "Herrera",
-                IdUser = "1234567",
-                NumCel = "3148569865",
-                Email = "sergio.mintic@mintic.edu.co",
-                Password = "12345678",
+                LastName = "Herrera",
+                Email = "test@mintic.edu.co",
+                Password = "123",
+                CitizenID = "158745",
+                NumCel = "12345678",
+                City = "Villavicencio",
                 Adress = "finca 1",
                 
             };

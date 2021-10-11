@@ -10,3 +10,16 @@ D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\n
 D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
 D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
 D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.deps.json
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfoInputs.cache
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfo.cs
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.AssemblyReference.cache
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
