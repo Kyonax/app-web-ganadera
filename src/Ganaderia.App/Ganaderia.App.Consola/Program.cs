@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Ganaderia.App.Dominio;
 using Ganaderia.App.Persistencia;
 
@@ -7,7 +8,8 @@ namespace Ganaderia.App.Consola
     class Program
     {
         /// <summary>
-        private static IRepositorioUser _repoUser = new RepositorioUser(new Persistencia.AppContext());
+        private static IRepositoryRancher _repoRancher = new RepositoryRancher(new Persistencia.AppContext());
+        private static IRepositoryVet _repoVet = new RepositoryVet(new Persistencia.AppContext());
         
         /// <summary>
         /// 
@@ -16,70 +18,68 @@ namespace Ganaderia.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //AddUser();
-            //GetAllUsers();
-            //GetUser(3);
-            //UpdateUser();
-            DeleteUser("3");
-            
+            //AddRancher();
+            //GetAllRanchers();
+            //GetRancher(2);
+            UpdateRancher();
+            //DeleteVet(5);
+
         }
 
         
-        private static void AddUser()
+        private static void AddRancher()
         {
-            User user = new User 
+            Rancher rancher = new Rancher
             {
-                ID = "#001",
-                FirstName = "Andres",
+                Name = "Fernando",
+                LastName = "Gutierrez",
+                PhoneNumber = "3148569865",
+                Email = "fernando.mintic@mintic.edu.co",
+                Password = "12345678",
+                CitizenID = "12121223",
+                CityOfResidence = "Ibague",
+                AmountOfFarms = 5,
+            };
+
+            _repoRancher.AddRancher(rancher);
+        }
+
+        private static void GetAllRanchers() {
+            var Ranchers = _repoRancher.GetAllRanchers();
+            foreach(Rancher item in Ranchers)
+            {
+                Console.WriteLine(item.Name);
+            }           
+        }
+
+        private static void GetRancher(int idRancher) 
+        {
+            var Rancher = _repoRancher.GetRancher(idRancher);
+            Console.WriteLine(Rancher.Name);
+
+        }
+
+        private static void UpdateRancher() 
+        {
+            Rancher Rancher = new Rancher 
+            {
+                Id = 1,
+                Name = "Pedro",
                 LastName = "Herrera",
-                Email = "test@mintic.edu.co",
-                Password = "123",
-                CitizenID = "158745",
-                NumCel = "12345678",
-                City = "Villavicencio",
-                Adress = "finca 1",
-                
+                PhoneNumber = "3148569865",
+                Email = "sergio.mintic@mintic.edu.co",
+                Password = "12345678",
+                CitizenID = "12121223",
+                CityOfResidence = "Manizales"
             };
 
-            _repoUser.AddUser(user);
-        }
-
-        private static void GetAllUsers() {
-            /*var user = _repoUser.GetAllUsers();
-            foreach(User item in user)
-            {
-                Console.WriteLine(item.FirstName);
-            }   */        
-        }
-
-        private static void GetUser(int idUser) 
-        {/*
-            var user = _repoUser.GetUser(idUser);
-            Console.WriteLine(user.FirstName);*/
+            _repoRancher.UpdateRancher(Rancher);
 
         }
 
-        private static void UpdateUser() 
-        {/*
-            User user = new User 
-            {
-                Id = 3,
-                Nombre = "Pedro",
-                Apellido = "Herrera",
-                NumeroTelefono = "3148569865",
-                Correo = "sergio.mintic@mintic.edu.co",
-                Contrasena = "12345678",
-                Latitud = 121212,
-                Longitud = 7887878
-            };
-
-            _repoUser.UpdateUser(user);*/
-
-        }
-
-        private static void DeleteUser(string IdUser)
+        private static void DeleteVet(int idVet)
         {
-            _repoUser.DeleteUser(IdUser);
+            _repoVet.DeleteVet(idVet);
         }
 
 

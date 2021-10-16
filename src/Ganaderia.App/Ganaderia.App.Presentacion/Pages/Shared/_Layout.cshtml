@@ -1,26 +1,71 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Ganaderia.App.Presentacion</title>
-    <link rel="stylesheet" href="~/css/normalize.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="~/css/estilos.css">
+    <link rel="stylesheet" href="~/css/fonts.css">
+    <link rel="stylesheet" href="~/css/normalize.css">
 </head>
-
 <body>
-    <div class="container">
-        <main role="main" class="pb-3">
+    <div class="flex-container">
+        <header class="flex-item">
+            <img src="~/css/images/vaca.png" alt="">
+            <h1>SysGan</h1>
+            <nav>
+                <ul>
+                    <li class="submenu "><a href="~/LogIn/LogIn" class="titulo"><span class="icon-user"></span>Inicia sesión</a></li>
+                    <li>Notificaciones</li>
+                    <li class="submenu "><a href="#" class="titulo"><span class="icon-user"></span>Ganadero</a>
+                        <ul class="children">
+                            <li><a href="#">Actualizar datos<span class="icon-dot"></span></a></li>
+                        </ul>
+                    </li>
+                    <li><a href=""><span class="icon-newspaper"></span></a></li>
+                </ul>
+            </nav>
+        </header>
+        <aside class="flex-item">
+            <ul>
+                <h2>Menú</h2>
+                <li class=""><a asp-page="/index" class="titulo"><span class="icon-home"></span>Inicio</a></li>
+                <li class="submenu"><a href="#" class="titulo"><span class="icon-newspaper"></span>Ganaderia</a>
+                    <ul class="children">
+                        <li><a asp-page="/Herd/RegHerd">Registrar Ganado <span class="icon-dot"></span></a></li>
+                        <li><a asp-page="/Specimen/RegSpecimen">Registrar ejemplares <span class="icon-dot"></span></a></li>
+                        <li><a asp-page="/Herd/Herds">Ver ganados <span class="icon-dot"></span></a></li>
+                        <li><a asp-page="/Specimen/Specimens">Ver ejemplares <span class="icon-dot"></span></a></li>
+                        <li><a asp-page="/Rancher/Ranchers">Ver ganaderos <span class="icon-dot"></span></a></li>
+                    </ul>
+                </li>
+                <li class="submenu ">
+                    <a href="#" class="titulo"><span class="icon-newspaper"></span>Veterinario<span class="caret icon-arrow-down6"></span></a>
+                    <ul class="children">
+                        <li><a asp-page="/Vet/Vets">Ver veterinarios <span class="icon-dot"></span></a></li>
+                        <li><a asp-page="/Vaccine/RegVaccine">Registrar vacuna <span class="icon-dot"></span></a></li>
+                        <li><a asp-page="/Vaccine/Vaccines">Ver vacunas <span class="icon-dot"></span></a></li>
+                    </ul>
+                </li>
+                <li class="submenu "><a class="titulo"><span class="icon-newspaper"></span>Predio</a>
+                    <ul class="children">
+                        <li><a asp-page="/Predio/RegPredio">Registrar predio <span class="icon-dot"></span></a></li>
+                        <li><a asp-page="/Predio/Predios">Ver predios <span class="icon-dot"></span></a></li>
+                    </ul>
+                </li>
+                    
+             </ul>
+        </aside>
+        <main class="flex-item">
             @RenderBody()
         </main>
+        <footer class="flex-item">SysGan 2021</footer>
     </div>
-
-
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
 
     @await RenderSectionAsync("Scripts", required: false)
 </body>
-
 </html>

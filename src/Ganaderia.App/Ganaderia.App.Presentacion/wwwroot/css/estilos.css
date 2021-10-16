@@ -1,0 +1,141 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    min-width: 200px;
+}
+
+header {
+    display: flex;
+    width:100%;
+    height: 6vh;
+    flex-grow: 2;
+    background-color: #1B99CF;
+    z-index: 100;
+}
+aside {
+    width: 15vw;
+    height: 91vh;
+    display: flex;
+    background-color: #c8f3ff;
+    border-right: 2px solid #1B99CF;
+}
+main {
+    flex-grow: 5;
+    background-color: #fff;
+}
+
+footer {
+    width:100%;
+    height: 3vh;
+    background-color: #1B99CF;
+    flex-grow: 1;
+    text-align: center;
+}
+header h1 {
+    margin: 9px 15px;
+    flex-grow: 1;
+}
+header nav {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content:flex-end
+}
+header nav ul {
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+}
+header nav ul li {
+    padding: 20px;
+    height:55px
+}
+aside ul {
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+}
+aside ul h2 {
+    text-align: center;
+    padding:15px;
+    width:12vw;
+}
+.titulo {
+    font-weight: bold;
+    font-size:18px
+}
+aside ul li {
+    padding:6px;
+    margin: 0px;
+    border-top: 2px solid #1B99CF;
+}
+aside ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+span {
+    margin-right: 10px;
+}
+
+
+
+
+header nav ul {
+	list-style:none;
+}
+
+header nav ul li:hover {
+	background:#c8f3ff;
+}
+
+header nav ul li a {
+	color:rgb(0, 0, 0);
+	display:block;
+	text-decoration:none;
+}
+
+header nav ul li:hover .children {
+	display:block;
+}
+
+header nav ul li .children {
+	display: none;
+	background:#c8f3ff;
+	position: absolute;
+    margin-top: 17px;
+    margin-left: -20px;
+}
+
+header nav ul li .children li {
+	display:block;
+	overflow: hidden;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+header nav ul li .children li a {
+	display: block;
+    text-decoration: none;
+    color: #000;
+}
+
+header nav ul li .children li a span {
+	float: right;
+	position: relative;
+	margin-right:0;
+	margin-left:0px;
+}
+
+header nav ul li .caret {
+	position: relative;
+	top:3px;
+	margin-left:10px;
+	margin-right:0px;
+}

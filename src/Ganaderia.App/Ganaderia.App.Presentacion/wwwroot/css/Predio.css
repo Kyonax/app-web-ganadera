@@ -1,0 +1,28 @@
+table {
+    width: 90%;
+    outline: none;
+    background-color: #aaa;
+    margin: 0px 10px;
+    border-radius: 10px;
+    font-size:15px;
+    border: #aaa;
+}
+
+table thead {
+    border-bottom: 1px solid #000;
+}
+table thead th {
+    padding: 8px;
+}
+
+table button {
+    border-radius: 25px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 10px;
+}
+
+table tbody {
+    background-color: #ddd;
+    border-bottom: 1px solid #000;
+}

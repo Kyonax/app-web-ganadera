@@ -1,0 +1,30 @@
+﻿@page
+@model Ganaderia.App.Presentacion.Pages.RanchersModel
+@{
+}
+<h1>Lista de ganaderos</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Teléfono</th>
+            <th scope="col">Correo</th>
+            <th scope="col">Cédula</th>
+            <th scope="col">Residencia</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ganadero in Model.Ranchers){
+            <tr>
+                <td>@ganadero.Name</td>
+                <td>@ganadero.LastName</td>
+                <td>@ganadero.PhoneNumber</td>
+                <td>@ganadero.Email</td>
+                <td>@ganadero.CitizenID</td>
+                <td>@ganadero.CityOfResidence</td>
+            </tr>
+        }
+    </tbody>
+</table>

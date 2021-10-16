@@ -1,14 +1,13 @@
+using System.Collections.Generic;
+
 namespace Ganaderia.App.Dominio
 {
-    public class Specimen : Livestock
+    public class Specimen
     {
-        public string _id { get; set; }
-        public string gender { get; set; }
-        public string weight { get; set; }
-        public int age { get; set; }
-        public string race { get; set; }
-        public string vaccines { get; set; }
-        public string pathologies { get; set; }
-
+        public int Id { get; set; }
+        public string Gender { get; set; }
+        public int Weight { get; set; }
+        public string Age { get; set; }
+        public string Breed { get; set; }
     }
 }

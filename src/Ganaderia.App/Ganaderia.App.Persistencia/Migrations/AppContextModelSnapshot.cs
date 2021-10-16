@@ -18,6 +18,93 @@ namespace Ganaderia.App.Persistencia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
 
+            modelBuilder.Entity("Ganaderia.App.Dominio.Farm", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("AmountOfSpecimen")
+                        .HasColumnType("int");
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<float>("Latitud")
+                        .HasColumnType("real");
+
+                    b.Property<float>("Longitud")
+                        .HasColumnType("real");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Farms");
+                });
+
+            modelBuilder.Entity("Ganaderia.App.Dominio.Herd", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<int>("AmountOfSpecimen")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Herds");
+                });
+
+            modelBuilder.Entity("Ganaderia.App.Dominio.Pathology", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("ClinicalSigns")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Pathologies");
+                });
+
+            modelBuilder.Entity("Ganaderia.App.Dominio.Specimen", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Age")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Breed")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Gender")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Weight")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Specimens");
+                });
+
             modelBuilder.Entity("Ganaderia.App.Dominio.User", b =>
                 {
                     b.Property<int>("Id")
@@ -25,7 +112,10 @@ namespace Ganaderia.App.Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("Adress")
+                    b.Property<string>("CitizenID")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CityOfResidence")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Discriminator")
@@ -35,19 +125,16 @@ namespace Ganaderia.App.Persistencia.Migrations
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("FirstName")
+                    b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("IdUser")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("NumCel")
+                    b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Password")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("lastName")
+                    b.Property<string>("PhoneNumber")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -57,17 +144,48 @@ namespace Ganaderia.App.Persistencia.Migrations
                     b.HasDiscriminator<string>("Discriminator").HasValue("User");
                 });
 
-            modelBuilder.Entity("Ganaderia.App.Dominio.Ganadero", b =>
+            modelBuilder.Entity("Ganaderia.App.Dominio.Vaccine", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Lab")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Lot")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Vaccines");
+                });
+
+            modelBuilder.Entity("Ganaderia.App.Dominio.Rancher", b =>
                 {
                     b.HasBaseType("Ganaderia.App.Dominio.User");
 
-                    b.Property<float>("Latitud")
-                        .HasColumnType("real");
+                    b.Property<int>("AmountOfFarms")
+                        .HasColumnType("int");
 
-                    b.Property<float>("Longitud")
-                        .HasColumnType("real");
+                    b.HasDiscriminator().HasValue("Rancher");
+                });
 
-                    b.HasDiscriminator().HasValue("Ganadero");
+            modelBuilder.Entity("Ganaderia.App.Dominio.Vet", b =>
+                {
+                    b.HasBaseType("Ganaderia.App.Dominio.User");
+
+                    b.Property<string>("ProfessionalID")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Speciality")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasDiscriminator().HasValue("Vet");
                 });
 #pragma warning restore 612, 618
         }

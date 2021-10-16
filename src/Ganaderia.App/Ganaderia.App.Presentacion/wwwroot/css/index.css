@@ -1,41 +1,9 @@
-.izquierda {
-  font-family: "Open sans", sans-serif;
-  display: inline-block;
-  width: 45vw;
-  height: 94.5vh;
-  text-align: center;
-  object-fit: contain;
-}
-.titulo {
+.titulo1 {
   color: rgb(49, 49, 49);
   font-size: 6vw;
   text-align: center;
   margin-top: -80px;
   z-index: 0;
-}
-#vaca {
-  margin-top: 6vh;
-  width: 20vw;
-}
-.fondo {
-  box-sizing: border-box;
-  position: absolute;
-  width: 45vw;
-  height: 100vh;
-  z-index: -1;
-}
-.fondo img {
-  object-fit: cover;
-  height: 100%;
-}
-.cow {
-  position: absolute;
-  display: block;
-  width: 45vw;
-  z-index: -1;
-  margin-top: -60vh;
-  height: 95vh;
-  object-fit: cover;
 }
 
 .derecha {
@@ -43,29 +11,21 @@
   position: absolute;
   display: inline-block;
   width: 55vw;
-  height: 94.5vh;
+  height: 94vh;
 }
 
 form {
   font-family: "Roboto", sans-serif;
-  margin: 12vw 12vw 12vh 35vh;
+  margin: 5vw 5vw 5vh 5vh;
   box-sizing: border-box;
   border: 2px solid black;
   border-radius: 10%;
   padding: 40px;
   box-shadow: 7px 7px 0px 0px #1b99cf;
-  width: 20vw;
+  width: 25vw;
   height: 50vh;
   text-align: center;
   background-color: white;
-}
-
-footer {
-  box-sizing: border-box;
-  background-color: lightblue;
-  height: 5.5vh;
-  padding: 1vh;
-  text-align: center;
 }
 
 form input {
@@ -75,7 +35,7 @@ form input {
   border: 1px solid gray;
   margin: 10px;
   box-shadow: 1px 1px 2px 0px gray;
-  width: 10vw;
+  width: 15vw;
 }
 
 input:focus {
@@ -83,18 +43,18 @@ input:focus {
 }
 
 form label {
-  font-size: 1.2vw;
+  font-size: 1vw;
   display: block;
   margin: 0.3vh;
 }
 
 ::placeholder {
-  font-size: 1vw;
+  font-size: 0.9vw;
   color: black;
   padding-left: 0.3vw;
 }
 form h2 {
-  font-size: 1.7vw;
+  font-size: 2vw;
   text-align: center;
   margin-bottom: 3vh;
   margin-top: 0.1vh;
@@ -106,7 +66,7 @@ form h2 {
 button {
   box-sizing: border-box;
   color: white;
-  width: 10vw;
+  width: 15vw;
   height: 4vh;
   padding: 0.5vw;
   border-radius: 2vw;
@@ -131,87 +91,4 @@ button:hover {
   margin-top: 1vh;
   margin-left: 5vw;
   text-decoration: none;
-}
-
-@media only screen and (max-width: 900px) {
-  .izquierda {
-    box-sizing: border-box;
-    width: 100vw;
-    height: 30vh;
-    text-align: center;
-  }
-  .derecha {
-    box-sizing: border-box;
-    display: block;
-    margin: 0vw;
-    position: relative;
-    width: 100vw;
-    height: 65vh;
-    padding-top: 6vh;
-    z-index: 0;
-  }
-  .titulo {
-    margin-top: -40px;
-    font-size: 15vw;
-  }
-  .fondo {
-    display: block;
-    width: 100vw;
-  }
-  .fondo img {
-    height: 30vh;
-    width: 100vw;
-  }
-  #vaca {
-    margin-top: -2vh;
-    width: 55vw;
-    margin-bottom: -3vh;
-  }
-  footer {
-    box-sizing: border-box;
-    margin: 0px;
-    width: 100vw;
-    height: 5vh;
-  }
-  form {
-    margin: auto;
-    text-align: center;
-    width: 75vw;
-    height: 50vh;
-    padding-top: 7vw;
-  }
-  form input {
-    border-radius: 4vw;
-    width: 45vw;
-    height: 3vh;
-  }
-  ::placeholder {
-    font-size: 3.5vw;
-  }
-  form h2 {
-    margin-bottom: 7vw;
-    font-size: 5.5vw;
-  }
-  form label {
-    font-size: 4vw;
-    margin: 1vw;
-  }
-
-  button {
-    border-radius: 3vh;
-    margin: 0vw;
-    width: 40vw;
-    height: 5vh;
-  }
-  .recuperacion {
-    margin-top: 5vw;
-    font-size: 3.5vw;
-  }
-  .registro {
-    font-size: 3.5vw;
-  }
-
-  footer {
-    padding: 1vh;
-  }
 }

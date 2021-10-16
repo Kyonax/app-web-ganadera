@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj": {}
+    "D:\\MINTIC\\Grupo35\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj": {}
   },
   "projects": {
-    "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj": {
+    "D:\\MINTIC\\Grupo35\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj",
+        "projectUniqueName": "D:\\MINTIC\\Grupo35\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj",
         "projectName": "Ganaderia.App.Servicios",
-        "projectPath": "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj",
-        "packagesPath": "C:\\Users\\Kyonax\\.nuget\\packages\\",
-        "outputPath": "D:\\Programación\\University\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\obj\\",
+        "projectPath": "D:\\MINTIC\\Grupo35\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "D:\\MINTIC\\Grupo35\\Ganaderia\\Ganaderia.App\\Ganaderia.App.Servicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kyonax\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -75,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

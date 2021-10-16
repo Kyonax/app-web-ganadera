@@ -40,6 +40,7 @@ D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\n
 D:\MINTIC\Grupo35\Ganaderia\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.pdb
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.exe
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.deps.json
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.json
@@ -50,6 +51,7 @@ D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Pre
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.dll
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.pdb
+D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csprojAssemblyReference.cache
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfoInputs.cache
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfo.cs
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CoreCompileInputs.cache
@@ -76,49 +78,6 @@ D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Pre
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
 D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.genruntimeconfig.cache
-<<<<<<< HEAD
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.exe
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.deps.json
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.json
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.dev.json
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.dll
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.dll
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.pdb
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csprojAssemblyReference.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfoInputs.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfo.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CoreCompileInputs.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorAssemblyInfo.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorAssemblyInfo.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.TagHelpers.input.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.TagHelpers.output.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorCoreGenerate.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Ganadero\List.cshtml.g.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorTargetAssemblyInfo.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorTargetAssemblyInfo.cs
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CopyComplete
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Ganaderia.App.Presentacion.StaticWebAssets.Manifest.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Ganaderia.App.Presentacion.StaticWebAssets.xml
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.genruntimeconfig.cache
-C:\Users\EQUIPO\Desktop\Nueva carpeta (2)\Equipo\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Reg_ganadero\Reg_ganadero.cshtml.g.cs
-=======
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -159,55 +118,98 @@ D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarroll
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.genruntimeconfig.cache
->>>>>>> 817ce02dbf110ba824319db9a04f1a96e4da09b7
-D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Reg_ganadero\Reg_ganadero.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.exe
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.deps.json
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.json
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.dev.json
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.dll
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.dll
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.pdb
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csprojAssemblyReference.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfoInputs.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfo.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CoreCompileInputs.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorAssemblyInfo.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorAssemblyInfo.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.TagHelpers.input.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.TagHelpers.output.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorCoreGenerate.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Ganadero\List.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Reg_ganadero\Reg_ganadero.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Reg_veterinario\Reg_veterinario.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorTargetAssemblyInfo.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorTargetAssemblyInfo.cs
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CopyComplete
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Ganaderia.App.Presentacion.StaticWebAssets.Manifest.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Ganaderia.App.Presentacion.StaticWebAssets.xml
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.genruntimeconfig.cache
-C:\Users\Santiago\OneDrive\Documentos\proyecto_final\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Seleccion_reg\Seleccion_reg.cshtml.g.cs
->>>>>>> b41f30a0d4c04922f95dbca319b6cb534a69bf4c
->>>>>>> 52c268d77241c1e159b60913fb62776c4435c532
-D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Reg_veterinario\Reg_veterinario.cshtml.g.cs
-D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Seleccion_reg\Seleccion_reg.cshtml.g.cs
-D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.AssemblyReference.cache
-D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
-D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\scopedcss\bundle\Ganaderia.App.Presentacion.styles.css
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.exe
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.deps.json
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.json
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.runtimeconfig.dev.json
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Dominio.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csprojAssemblyReference.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfoInputs.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.AssemblyInfo.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CoreCompileInputs.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorAssemblyInfo.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorAssemblyInfo.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.TagHelpers.input.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.TagHelpers.output.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorCoreGenerate.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorTargetAssemblyInfo.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.RazorTargetAssemblyInfo.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.Views.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.csproj.CopyComplete
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Ganaderia.App.Presentacion.StaticWebAssets.Manifest.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Ganaderia.App.Presentacion.StaticWebAssets.xml
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Ganaderia.App.Presentacion.genruntimeconfig.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Predio\predios.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Rancher\Ranchers.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vaccine\Vaccines.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vet\Vets.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Herd\Herds.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Specimen\Specimens.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Herd\RegHerd.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Predio\RegPredio.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Specimen\RegSpecimen.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Vaccine\RegVaccine.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\LogIn\LogIn.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Seleccion_reg\Seleccion_reg.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Reg_ganadero\Reg_ganadero.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Reg_veterinario\Reg_veterinario.cshtml.g.cs
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Persistencia.dll
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\Pruebas\Pruebas\src\Ganaderia.App\Ganaderia.App.Presentacion\bin\Debug\netcoreapp3.1\Ganaderia.App.Persistencia.pdb
