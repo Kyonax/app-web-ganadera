@@ -6,11 +6,11 @@ using System.Linq;
 
 namespace Ganaderia.App.Persistencia
 {
-    public class RepositorioVaccine : IRepositorioVaccine
+    public class RepositoryVaccine : IRepositoryVaccine
     {
         private AppContext _appContext;
 
-        public RepositorioVaccine(AppContext appContext)
+        public RepositoryVaccine(AppContext appContext)
         {
             _appContext = appContext;
         }
@@ -20,39 +20,42 @@ namespace Ganaderia.App.Persistencia
         /// </summary>
         /// <param name="Vacuna">Objeto de tipo usuario</param>
         /// <returns></returns>
-        Vaccine IRepositorioVaccine.AddVaccine(Vaccine vaccine) 
+        Vaccine IRepositoryVaccine.AddVaccine(Vaccine vaccine) 
         {
             var VaccineAdicionado = _appContext.Vaccines.Add(vaccine);
             _appContext.SaveChanges();
             return VaccineAdicionado.Entity;
         }
 
-        IEnumerable<Vaccine> IRepositorioVaccine.GetAllVaccine()
+        IEnumerable<Vaccine> IRepositoryVaccine.GetAllVaccine()
         {
             return _appContext.Vaccines;
         }
 
-        Vaccine IRepositorioVaccine.GetVaccine(int Vaccineid)
+        Vaccine IRepositoryVaccine.GetVaccine(int Vaccineid)
         {
-            return _appContext.Vaccines.FirstOrDefault(g => g.VaccineId == Vaccineid);
+            return _appContext.Vaccines.FirstOrDefault(g => g.Id == Vaccineid);
         }
 
-        Vaccine IRepositorioVaccine.UpdateVaccine(Vaccine vaccine)
+        Vaccine IRepositoryVaccine.UpdateVaccine(Vaccine vaccine)
         {
-            var vaccineEncontrado = _appContext.Vaccines.FirstOrDefault(g => g.ID == vaccine.ID);
+            var vaccineEncontrado = _appContext.Vaccines.FirstOrDefault(g => g.Id == vaccine.Id);
 
             if (vaccineEncontrado != null)
             {
                 vaccineEncontrado.Name = vaccine.Name;
-                vaccineEncontrado.LastName = vaccine.LastName;
+                vaccineEncontrado.Lot = vaccine.Lot;
+                vaccineEncontrado.Lab = vaccine.Lab;
+                vaccineEncontrado.KeepCool = vaccine.KeepCool;
+
                 _appContext.SaveChanges();
             }
 
             return vaccineEncontrado;
         }
 
-        void IRepositorioVaccine.DeleteVaccine(int Vaccineid) {
-            var vaccineEncontrado = _appContext.Vaccines.FirstOrDefault(g => g.ID == Vaccineid);
+        void IRepositoryVaccine.DeleteVaccine(int Vaccineid) {
+            var vaccineEncontrado = _appContext.Vaccines.FirstOrDefault(g => g.Id == Vaccineid);
 
             if (vaccineEncontrado != null)
             {

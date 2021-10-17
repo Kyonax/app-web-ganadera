@@ -11,11 +11,5 @@ namespace Ganaderia.App.Persistencia
         Vet GetVet (int idVet);
         Vet UpdateVet (Vet vet);
         void DeleteVet (int idVet);
-
-        //Vaccine AddVaccine (Vaccine vaccine);
-        //IEnumerable<Vaccine> GetAllVaccines();
-        //Vaccine GetVaccine (int idVaccine);
-        //Vaccine UpdateVaccine (Vaccine vaccine);
-        //void DeleteVaccine (int idVaccine);
     }
 }

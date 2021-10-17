@@ -5738,19 +5738,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HEARK\\.nuget\\packages\\": {}
+    "C:\\Users\\Juan Diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
+      "projectUniqueName": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
       "projectName": "Ganaderia.App.Presentacion",
-      "projectPath": "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
-      "packagesPath": "C:\\Users\\HEARK\\.nuget\\packages\\",
-      "outputPath": "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Presentacion\\obj\\",
+      "projectPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Presentacion\\Ganaderia.App.Presentacion.csproj",
+      "packagesPath": "C:\\Users\\Juan Diego\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HEARK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Juan Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5761,11 +5761,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
-              "projectPath": "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj"
+            "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
+              "projectPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj"
             },
-            "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj": {
-              "projectPath": "D:\\U-CALDAS\\SICLO 3\\SEMANA 4\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj"
+            "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj": {
+              "projectPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj"
             }
           }
         }
@@ -5796,7 +5796,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

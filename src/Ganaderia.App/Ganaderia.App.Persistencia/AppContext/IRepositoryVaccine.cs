@@ -5,16 +5,16 @@ using System.Linq;
 
 namespace Ganaderia.App.Persistencia
 {
-    public interface IRepositorioVaccine
+    public interface IRepositoryVaccine
     {
         Vaccine AddVaccine(Vaccine vaccine);
 
         IEnumerable<Vaccine> GetAllVaccine();
 
-        Vaccine GetVaccine(Int Vaccineid);
+        Vaccine GetVaccine(int Vaccineid);
 
         Vaccine UpdateVaccine(Vaccine vaccine);
 
-        void DeleteVaccine(Int Vaccineid);
+        void DeleteVaccine(int Vaccineid);
     }
 }
