@@ -78,7 +78,7 @@ namespace Ganaderia.App.Persistencia.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Pathologies");
+                    b.ToTable("Pathology");
                 });
 
             modelBuilder.Entity("Ganaderia.App.Dominio.Specimen", b =>
@@ -150,6 +150,9 @@ namespace Ganaderia.App.Persistencia.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .UseIdentityColumn();
+
+                    b.Property<bool>("KeepCool")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Lab")
                         .HasColumnType("nvarchar(max)");
