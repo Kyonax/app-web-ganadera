@@ -1,0 +1,32 @@
+﻿@page
+@model Ganaderia.App.Presentacion.Pages.RegSpecimenModel
+@{
+}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/form.css">
+</head>
+<body>
+    <form method="post" action="">
+        <h2>Registrar ejemplar</h2>
+        <p>Dilengia los siguientes campos</p>
+        <label for="Gender">Genero</label>
+        <input type="text" name="Gender" placeholder="Ingresa el género">
+        <label for="Weight">Peso (Kg)</label>
+        <input type="text" name="Weight" placeholder="Ingresa el peso">
+        <label for="Breed">Raza</label>
+        <input type="text" name="Breed" placeholder="Ingresa la edad">
+        <label for="Age">Edad</label>
+        <input type="text" name="Age" placeholder="Ingresa la edad">
+        <label for="Vaccines">Vacunas</label>
+        <input type="text" name="Vaccines" placeholder="Vacunas">
+        <label for="Pathologies">Patologías</label>
+        <input type="text" name="Pathologies" placeholder="Patologias">
+        <button type="submit" asp-page-handler="Add">Registar</button>
+    </form>
+</body>
+</html>

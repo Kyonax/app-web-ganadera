@@ -19,7 +19,6 @@ D:\Programación\University\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dom
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.deps.json
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
-D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csprojAssemblyReference.cache
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfoInputs.cache
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfo.cs
 D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.CoreCompileInputs.cache
@@ -53,3 +52,5 @@ D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\o
 D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.CoreCompileInputs.cache
 D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
 D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csproj.AssemblyReference.cache
+D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig

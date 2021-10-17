@@ -1,0 +1,47 @@
+﻿@page
+@model Ganaderia.App.Presentacion.Pages.SpecimensModel
+@{
+}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/Predio.css"></link>
+</head>
+<body>
+    <table class="table table-striped">
+        <h2>Ejemplares</h2>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Genero</th>
+                <th>Peso (Kg)</th>
+                <th>Edad</th>
+                <th>Raza</th>
+                <th>Vacunas</th>
+                <th>Patologias</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var specimen in Model.Specimens)
+            {
+                <tr>
+                    <td>@specimen.Id</td>
+                    <td>@specimen.Gender</td>
+                    <td>@specimen.Weight</td>
+                    <td>@specimen.Age</td>
+                    <td>@specimen.Breed</td>
+                    <td>@specimen.Vaccines</td>
+                    <td>@specimen.Pathologies</td>
+                    <td>
+                        <button type="submit">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿@page
+@model Ganaderia.App.Presentacion.Pages.VetsModel
+@{
+}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/Predio.css"></link>
+</head>
+<body>
+    <table class="table table-striped">
+        <h2>Ejemplares</h2>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Teléfono</th>
+                <th>Correo</th>
+                <th>Cédula</th>
+                <th>Residencia</th>
+                <th># Tarjeta Profesional</th>
+                <th>Especalidad</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vet in Model.Vets){
+            <tr>
+                <td>@vet.Id</td>
+                <td>@vet.Name</td>
+                <td>@vet.LastName</td>
+                <td>@vet.PhoneNumber</td>
+                <td>@vet.Email</td>
+                <td>@vet.CitizenID</td>
+                <td>@vet.CityOfResidence</td>
+                <td>@vet.ProfessionalID</td>
+                <td>@vet.Speciality</td>
+                <td>
+                    <button type="submit">Eliminar</button>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</body>
+</html>

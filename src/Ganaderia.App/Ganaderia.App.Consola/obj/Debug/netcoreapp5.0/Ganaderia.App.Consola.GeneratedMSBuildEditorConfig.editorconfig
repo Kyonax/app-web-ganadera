@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = netcoreapp5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Ganaderia.App.Consola
+build_property.ProjectDir = D:\Users\Juan Diego\Desktop\JUANCHO\PROGRAMACION\MisionTIC2022\CICLO 3\Desarrollo de Software\SysGan\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Consola\

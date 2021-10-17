@@ -1,4 +1,22 @@
 table {
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius:10px;
+}
+
+button {
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    background:#1B99CF;
+}
+
+button:hover {
+    background: #955;
+}
+/*
+table {
     width: 90%;
     outline: none;
     background-color: #aaa;

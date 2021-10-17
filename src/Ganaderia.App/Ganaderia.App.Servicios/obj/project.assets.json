@@ -586,19 +586,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kyonax\\.nuget\\packages\\": {}
+    "C:\\Users\\Juan Diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\Estudio\\MinTIC\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj",
+      "projectUniqueName": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj",
       "projectName": "Ganaderia.App.Servicios",
-      "projectPath": "D:\\dev\\Estudio\\MinTIC\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj",
-      "packagesPath": "C:\\Users\\Kyonax\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\Estudio\\MinTIC\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\obj\\",
+      "projectPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\Ganaderia.App.Servicios.csproj",
+      "packagesPath": "C:\\Users\\Juan Diego\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Servicios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kyonax\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Juan Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp5.0"

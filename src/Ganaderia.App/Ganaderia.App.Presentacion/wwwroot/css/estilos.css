@@ -29,6 +29,7 @@ aside {
 main {
     flex-grow: 5;
     background-color: #fff;
+    padding: 20px;
 }
 
 footer {

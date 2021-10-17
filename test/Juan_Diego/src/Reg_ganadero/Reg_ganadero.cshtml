@@ -1,0 +1,73 @@
+﻿@page
+@model Ganaderia.App.Presentacion.Pages.Reg_ganaderoModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Reg_ganadero.css">
+    <link rel="stylesheet" href="~/cssnormalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@1,75,800&display=swap"
+        rel="stylesheet">
+    <title>SysGan</title>
+    <link rel="icon" href="vaca.ico">
+</head>
+
+<body>
+    <div class="derecha">
+        <div class="form__container">
+            <h2>¡Hola Ganadero!</h2>
+            <h2>Bienvenido/a</h2>
+            <h3>Por favor diligencia los siguientes datos:</h3>
+
+            <form method="post" action="">
+                <div><label for="Name">Nombre</label>
+                    <input type="text" name="Name" placeholder="ingresa tus nombres">
+                </div>
+
+                <div><label for="LastName">Apellidos</label>
+                    <input type="text" name="LastName" placeholder="ingresa tus apellidos">
+                </div>
+
+                <div><label for="CitizenID">Cédula</label>
+                    <input type="text" name="CitizenID" placeholder="ingresa tu cédula">
+                </div>
+
+                <div><label for="PhoneNumber">Télefono</label>
+                    <input type="text" name="PhoneNumber" placeholder="ingresa tu teléfono">
+                </div>
+
+                <div><label for="CityOfResidence">Ciudad de residencia</label>
+                    <input type="text" name="CityOfResidence" placeholder="ingresa tu ciudad de residencia">
+                </div>
+
+                <div><label for="Email">Email</label>
+                    <input type="email" name="Email" placeholder="ingresa tu correo">
+                </div>
+
+                <div><label for="Password">Contraseña</label>
+                <input type="password" name="Password" placeholder="ingresa tu contraseña">
+                </div>
+
+                <div><label for="">Confirma tu contraseña</label>
+                    <input type="password" name="" placeholder="ingresa tu contraseña">
+                </div>
+
+                <div><label for="AmountOfFarms">Cantidad de predios</label>
+                    <input type="password" name="AmountOfFarms" placeholder="ingresa cantidad de predios">
+                </div>
+                <div class="boton">
+                <button type="submit" asp-page-handler="Add">Registrarse</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</body>
+
+</html>
