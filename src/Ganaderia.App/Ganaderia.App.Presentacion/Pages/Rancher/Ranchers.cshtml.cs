@@ -16,7 +16,7 @@ namespace Ganaderia.App.Presentacion.Pages
 
         public void OnGet()
         {
-            var Ranchers = _repoRancher.GetAllRanchers();
+            Ranchers = _repoRancher.GetAllRanchers();
         }
     }
 }

@@ -15,7 +15,7 @@ namespace Ganaderia.App.Presentacion.Pages
         public IEnumerable<Vet> Vets { get; set; }
         public void OnGet()
         {
-            var Vet = _repoVet.GetAllVets();
+            Vets = _repoVet.GetAllVets();
         }
     }
 }
