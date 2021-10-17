@@ -12,7 +12,7 @@ namespace Ganaderia.App.Persistencia
         public DbSet<Herd> Herds { get; set; }
         public DbSet<Farm> Farms { get; set; }
         public DbSet<Specimen> Specimens { get; set; }
-        public DbSet<Pathology> Pathologies { get; set; }
+        public DbSet<Pathology> Pathology { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

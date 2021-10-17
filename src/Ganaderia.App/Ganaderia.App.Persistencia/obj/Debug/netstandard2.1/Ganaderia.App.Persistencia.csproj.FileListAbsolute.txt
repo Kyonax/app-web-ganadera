@@ -46,3 +46,16 @@ D:\U-CALDAS\SICLO 3\SEMANA 4\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Pe
 D:\U-CALDAS\SICLO 3\SEMANA 4\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
 D:\U-CALDAS\SICLO 3\SEMANA 4\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
 D:\U-CALDAS\SICLO 3\SEMANA 4\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.deps.json
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.AssemblyReference.cache
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfoInputs.cache
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfo.cs
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+D:\dev\Estudio\MinTIC\app-web-ganadera\src\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb

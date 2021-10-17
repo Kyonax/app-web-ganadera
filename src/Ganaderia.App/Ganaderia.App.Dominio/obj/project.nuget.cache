@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J0VoZin5m9eH3yw5oXGL2lvEYSeVzE7pKfXfcMo5sDYE3Ay6+gNzE+jhr+HySbTX/lIbP3X1DXWsGk/tS39sZg==",
+  "dgSpecHash": "Q9Pn510nYgtLdzZnfIokq1fuLuLUPlyw/1n5FIxnqoVj9MRmG3TKGXXYn3j6N+BIGcmnJCcBJFn3Pgs/OEABAw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
+  "projectFilePath": "D:\\dev\\Estudio\\MinTIC\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
