@@ -17,18 +17,6 @@ namespace Ganaderia.App.Persistencia
         Rancher UpdateRancher(Rancher rancher);
         
         void DeleteRancher(int idRancher);
-        
-        // REGISTRAR - CONSULAR - ELIMINAR - ACTUALIZAR // FINCA
-
-        Farm AddFarm(Farm farm);
-
-        IEnumerable<Farm> GetAllFarms();
-
-        Farm GetFarm(int idFarm);
-
-        Farm UpdateFarm(Farm farm);
-
-        void DeleteFarm(int idFarm);
 
         // REGISTRAR - CONSULAR - ELIMINAR - ACTUALIZAR // GANADOS
 

@@ -7268,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\Pruebas\\Pruebas\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj",
+      "projectUniqueName": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj",
       "projectName": "Ganaderia.App.Persistencia",
-      "projectPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\Pruebas\\Pruebas\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj",
+      "projectPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\Ganaderia.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Juan Diego\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\Pruebas\\Pruebas\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\obj\\",
+      "outputPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\Pruebas\\Pruebas\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
-              "projectPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\Pruebas\\Pruebas\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj"
+            "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj": {
+              "projectPath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Dominio\\Ganaderia.App.Dominio.csproj"
             }
           }
         }

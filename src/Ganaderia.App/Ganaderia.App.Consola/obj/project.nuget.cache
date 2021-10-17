@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VX/SQMoCYPQ3HRM0oByix5q6HlZqH0JxtTSJGvdHQvsF7WnlkoiHVsJbvt7RnfN+kgwPYZQMBwMsTv/IOS7pPQ==",
+  "dgSpecHash": "CuN+AnifAhBeUnNu4uN4jjfdi57pE3IP/FzW0ao8xrqtI+WXp7Pz6kGKz/VY1xI/kwuWtQr/X0jq31kjXteU6A==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\Pruebas\\Pruebas\\src\\Ganaderia.App\\Ganaderia.App.Consola\\Ganaderia.App.Consola.csproj",
+  "projectFilePath": "D:\\Users\\Juan Diego\\Desktop\\JUANCHO\\PROGRAMACION\\MisionTIC2022\\CICLO 3\\Desarrollo de Software\\SysGan\\app-web-ganadera\\src\\Ganaderia.App\\Ganaderia.App.Consola\\Ganaderia.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan Diego\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Juan Diego\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

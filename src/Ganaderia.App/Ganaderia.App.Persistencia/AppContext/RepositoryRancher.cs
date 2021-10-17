@@ -57,50 +57,6 @@ namespace Ganaderia.App.Persistencia
                 _appContext.SaveChanges();
                 }
             }
-        //FARM
-
-        Farm IRepositoryRancher.AddFarm(Farm farm)
-        {
-            var AddedFarm = _appContext.Farms.Add(farm);
-            _appContext.SaveChanges();
-            return AddedFarm.Entity;
-        }
-        IEnumerable <Farm> IRepositoryRancher.GetAllFarms()
-        {
-            return _appContext.Farms;
-        }
-
-        Farm IRepositoryRancher.GetFarm(int idFarm)
-        {
-            return _appContext.Farms.FirstOrDefault(g => g.Id == idFarm);
-        }
-
-        Farm IRepositoryRancher.UpdateFarm(Farm farm)
-        {
-            var FoundFarm = _appContext.Farms.FirstOrDefault(g => g.Id ==farm.Id);
-
-            if (FoundFarm != null)
-            {
-                FoundFarm.Name = farm.Name;
-                FoundFarm.Latitud = farm.Latitud;
-                FoundFarm.Longitud = farm.Longitud;
-                FoundFarm.Address = farm.Address;
-                FoundFarm.City = farm.City;
-                FoundFarm.AmountOfSpecimen = farm.AmountOfSpecimen;
-            }
-            return FoundFarm;
-        }
-
-        void IRepositoryRancher.DeleteFarm(int idFarm)
-        {
-            var FoundFarm = _appContext.Farms.FirstOrDefault(g => g.Id == idFarm);
-            
-            if (FoundFarm != null)
-            {
-                _appContext.Farms.Remove(FoundFarm);
-                _appContext.SaveChanges();
-            }
-        }
 
         // HERD
 
