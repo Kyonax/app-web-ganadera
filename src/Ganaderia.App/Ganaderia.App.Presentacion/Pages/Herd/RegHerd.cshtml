@@ -11,12 +11,12 @@
     <link rel="stylesheet" href="~/css/form.css">
 </head>
 <body>
-    <form action="">
+    <form action="" method="post">
         <h2>Registrar ganado</h2>
         <p>Dilengia los siguientes campos</p>
         <label for="">Cantidad de ejemplares</label>
-        <input type="text" name="" placeholder="Ingresa la cantidad">
-        <button type="submit">Registar</button>
+        <input type="text" name="AmountOfSpecimen" placeholder="Ingresa la cantidad">
+        <button type="submit" asp-page-handler="Add" >Registar</button>
     </form>
 </body>
 </html>

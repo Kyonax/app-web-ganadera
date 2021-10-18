@@ -12,20 +12,22 @@
     <link rel="stylesheet" href="~/css/normalize.css">
 </head>
 <body>
-    <form class="form-pred" action="">
+    <form class="form-pred" action="" method="post">
         <h2>Registrar predio</h2>
         <p>Dilengia los siguientes campos</p>
         <label for="name">Nombre</label>
-        <input type="text" name="name" placeholder="Ingresa el nombre">
+        <input type="text" name="Name" placeholder="Ingresa el nombre">
         <label for="Lat">Latitud</label>
-        <input type="text" name="Lat" placeholder="Ingresa latitud">
+        <input type="text" name="Latitud" placeholder="Ingresa latitud">
         <label for="long">Longitud</label>
-        <input type="text" name="long" placeholder="Ingresa longitud">
+        <input type="text" name="Longitud" placeholder="Ingresa longitud">
         <label for="add">Dirección</label>
-        <input type="text" name="add" placeholder="Ingresa la dirección">
+        <input type="text" name="Address" placeholder="Ingresa la dirección">
         <label for="city">Ciudad</label>
-        <input type="text" name="city" placeholder="Ingresa la ciudad">
-        <button type="submit">Registar</button>
+        <input type="text" name="City" placeholder="Ingresa la ciudad">
+        <label for="city">cantidad de ejemplares</label>
+        <input type="text" name="AmountOfSpecimen" placeholder="Ingresa la ciudad">
+        <button type="submit" asp-page-handler="Add">Registar</button>
     </form>
 </body>
 </html>

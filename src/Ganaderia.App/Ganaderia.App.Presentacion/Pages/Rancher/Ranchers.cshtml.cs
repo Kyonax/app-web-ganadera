@@ -18,5 +18,9 @@ namespace Ganaderia.App.Presentacion.Pages
         {
             Ranchers = _repoRancher.GetAllRanchers();
         }
+         public void OnPostDelete(int id){
+            _repoRancher.DeleteRancher(id);
+            Ranchers = _repoRancher.GetAllRanchers();
+        }
     }
 }

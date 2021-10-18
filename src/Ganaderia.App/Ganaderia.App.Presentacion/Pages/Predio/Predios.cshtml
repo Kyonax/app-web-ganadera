@@ -11,8 +11,8 @@
     <link rel="stylesheet" href="~/css/Predio.css"></link>
 </head>
 <body>
-    <table>
-        <h2>Ejemplares</h2>
+    <table class="table table-striped">
+        <h2>Predios</h2>
         <thead>
             <tr>
                 <th>Id</th>
@@ -26,18 +26,23 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>1</td>
-                <td>Macho</td>
-                <td>150 kg</td>
-                <td>8 meses</td>
-                <td>Si</td>
-                <td>Fiebre aftosa</td>
-                <td>Fiebre aftosa</td>
-                <td>
-                    <button type="submit">Eliminar</button>
-                </td>
-            </tr>
+            @foreach (var farm in Model.Farms)
+            {
+                <form action="" method="post">
+                    <td>@farm.Id</td>
+                    <td>@farm.Name</td>
+                    <td>@farm.Longitud</td>
+                    <td>@farm.Latitud</td>
+                    <td>@farm.Address</td>
+                    <td>@farm.City</td>
+                    <td>@farm.AmountOfSpecimen</td>
+                    <input style="display:none;" value=@farm.Id name="Id">
+                    <td>
+                        <button type="submit" asp-page-handler="Delete"> Eliminar </button>
+                    </td>
+                </form>
+
+            }
         </tbody>
     </table>
 </body>

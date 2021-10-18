@@ -2,29 +2,57 @@
 @model Ganaderia.App.Presentacion.Pages.RanchersModel
 @{
 }
-<h1>Lista de ganaderos</h1>
+<html lang="en">
 
-<table class="table table-striped">
-    <thead>
-        <tr>
-            <th scope="col">Nombre</th>
-            <th scope="col">Apellido</th>
-            <th scope="col">Teléfono</th>
-            <th scope="col">Correo</th>
-            <th scope="col">Cédula</th>
-            <th scope="col">Residencia</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var ganadero in Model.Ranchers){
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/Predio.css">
+    </link>
+</head>
+
+<body>
+    <h1>Lista de ganaderos</h1>
+
+    <table class="table table-striped">
+        <thead>
             <tr>
-                <td>@ganadero.Name</td>
-                <td>@ganadero.LastName</td>
-                <td>@ganadero.PhoneNumber</td>
-                <td>@ganadero.Email</td>
-                <td>@ganadero.CitizenID</td>
-                <td>@ganadero.CityOfResidence</td>
+                <th scope="col">Id</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido</th>
+                <th scope="col">Teléfono</th>
+                <th scope="col">Correo</th>
+                <th scope="col">Cédula</th>
+                <th scope="col">Residencia</th>
+                <th scope="col">N° Predios</th>
+                <th scope="col">Opciones</th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var rancher in Model.Ranchers)
+            {   
+                <tr>
+                <form action="" method="post">
+                    <td>@rancher.Id</td>
+                    <td>@rancher.Name</td>
+                    <td>@rancher.LastName</td>
+                    <td>@rancher.PhoneNumber</td>
+                    <td>@rancher.Email</td>
+                    <td>@rancher.CitizenID</td>
+                    <td>@rancher.CityOfResidence</td>
+                    <td>@rancher.AmountOfFarms</td>
+                    <input style="display:none;" value=@rancher.Id name="Id">
+                    <td>
+                        <button type="submit" asp-page-handler="Delete"> Eliminar </button>
+                    </td>
+                </form>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+
+</html>
+

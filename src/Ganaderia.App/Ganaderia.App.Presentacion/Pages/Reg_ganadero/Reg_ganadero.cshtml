@@ -24,44 +24,45 @@
             <h2>¡Hola Ganadero!</h2>
             <h2>Bienvenido/a</h2>
             <h3>Por favor diligencia los siguientes datos:</h3>
-            <form>
+            <form method="post">
                 <div><label for="Nombre">Nombre</label>
-                    <input type="text" placeholder="ingresa tus nombres">
+                    <input type="text" placeholder="ingresa tus nombres" name= "Name">
                 </div>
 
                 <div><label for="Apellidos">Apellidos</label>
-                    <input type="text" placeholder="ingresa tus apellidos">
+                    <input type="text" placeholder="ingresa tus apellidos" name="LastName">
                 </div>
 
                 <div><label for="Cedula">Cédula</label>
-                    <input type="text" placeholder="ingresa tu cedula">
+                    <input type="text" placeholder="ingresa tu cedula" name ="CitizenID">
                 </div>
 
                 <div><label for="telefono">Télefono</label>
-                    <input type="text" placeholder="ingresa tu teléfono">
+                    <input type="text" placeholder="ingresa tu teléfono" name ="PhoneNumber">
                 </div>
 
                 <div><label for="profesion">Ciudad de residencia</label>
-                    <input type="text" placeholder="ingresa tu ciudad de residencia">
+                    <input type="text" placeholder="ingresa tu ciudad de residencia" name="CityOfResidence">
                 </div>
 
                 <div><label for="Email">Email</label>
-                    <input type="email" placeholder="ingresa tu correo">
+                    <input type="email" placeholder="ingresa tu correo" name="Email">
+                </div>
+                
+                <div><label for="Contrasena">Cantidad de predios</label>
+                    <input type="text" placeholder="ingresa la cantidad de predios" name="AmountOfFarms">
                 </div>
 
-                <div><label for="Contrasena">Contraseña</label><input type="password"
-                        placeholder="ingresa tu contraseña">
+                <div><label for="Contrasena">Contraseña</label>
+                    <input type="password" placeholder="ingresa tu contraseña" name = "Password">
                 </div>
-
-                <div><label for="Contrasena">Confirma tu contraseña</label>
-                    <input type="password" placeholder="ingresa tu contraseña">
+                
+                <div class="boton">
+                    <button type="submit" asp-page-handler="Add">Registrarse</button>
                 </div>
-
 
             </form>
-            <div class="boton">
-                <button type="button">Registrarse</button>
-            </div>
+
         </div>
     </div>
 </body>

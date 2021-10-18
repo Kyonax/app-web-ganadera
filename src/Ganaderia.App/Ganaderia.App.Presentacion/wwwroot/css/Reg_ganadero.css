@@ -28,7 +28,7 @@ div form div {
 
 form input {
   padding: 0.5vw 1vh;
-  border-radius: 2vw;
+  border-radius: 1vw;
   background: rgb(216, 216, 216);
   border: 1px solid gray;
   margin: 5px;
@@ -68,10 +68,10 @@ button {
   width: 12vw;
   height: 6vh;
   padding: 0.5vw;
-  border-radius: 2vw;
+  border-radius: 1vw;
   background-color: #1b99cf;
   border: none;
-  margin-top: 2vh;
+
 }
 
 button:hover {

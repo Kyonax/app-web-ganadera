@@ -11,8 +11,8 @@
     <link rel="stylesheet" href="~/css/Predio.css"></link>
 </head>
 <body>
-        <table>
-        <h2>Ejemplares</h2>
+        <table class="table table-striped">
+        <h2>Ganados</h2>
         <thead>
             <tr>
                 <th>Id</th>
@@ -21,15 +21,19 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>1</td>
-                <td>Macho</td>
-                <td>
-                    <button type="submit">
-                        Eliminar
-                    </button>
-                </td>
-            </tr>
+            @foreach (var herd in Model.Herds)
+            {
+                <tr>
+                <form action="" method="post">
+                    <td>@herd.Id</td>
+                    <td>@herd.AmountOfSpecimen</td>
+                    <input style="display:none;" value=@herd.Id name="Id">
+                    <td>
+                        <button type="submit" asp-page-handler="Delete"> Eliminar </button>
+                    </td>
+                </form>
+                </tr>
+            }
         </tbody>
     </table>
 </body>
