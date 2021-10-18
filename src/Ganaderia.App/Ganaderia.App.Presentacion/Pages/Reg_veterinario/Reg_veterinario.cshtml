@@ -14,47 +14,52 @@
     <link rel="stylesheet" href="~/css/normalize.css" />
 </head>
 <body>
-    <div class="derecha">
+<div class="derecha">
         <div class="form__container">
             <h2>¡Hola veterinario!</h2>
             <h2>Bienvenido/a</h2>
             <h3>Por favor diligencia los siguientes datos:</h3>
-            <form >
-                <div><label for="Nombre">Nombre</label>
-                    <input type="text" placeholder="ingresa tus nombres">
+            <form method="post" action="">
+                <div><label for="Name">Nombre</label>
+                    <input type="text" name="Name" placeholder="ingresa tus nombres">
                 </div>
 
-                <div><label for="Apellidos">Apellidos</label>
-                    <input type="text" placeholder="ingresa tus apellidos">
+                <div><label for="LastName">Apellidos</label>
+                    <input type="text" name="LastName" placeholder="ingresa tus apellidos">
                 </div>
 
-                <div><label for="Cedula">Cédula</label>
-                    <input type="text" placeholder="ingresa tu cedula">
+                <div><label for="PhoneNumber">Teléfono</label>
+                    <input type="text" name="PhoneNumber" placeholder="ingresa tu teléfono">
                 </div>
-                <div><label for="Ciudad">Ciudad de residencia</label>
-                    <input type="text" placeholder="ingresa la ciudad donde resides">
+
+                <div><label for="CitizenID">Cédula</label>
+                    <input type="text" name="CitizenID" placeholder="ingresa tu cédula">
+                </div>
+                <div><label for="CityOfResidence">Ciudad de residencia</label>
+                    <input type="text" name="CityOfResidence" placeholder="ingresa la ciudad donde resides">
                 </div>
                 <div><label for="NtarjetaProfesional">N° tarjeta profesional</label>
-                    <input type="text" placeholder="ingresa tu N°TP">
+                    <input type="text" name="ProfessionalID" placeholder="ingresa tu N°TP">
                 </div>
-
+                <div><label for="Speciality">Especialidad</label>
+                    <input type="text" name="Speciality" placeholder="ingresa tu espceialidad">
+                </div>
                 <div><label for="Email">Email</label>
-                    <input type="email" placeholder="ingresa tu correo">
+                    <input type="email" name="Email" placeholder="ingresa tu correo">
                 </div>
 
-                <div><label for="Contrasena">Contraseña</label
-                    ><input type="password" placeholder="ingresa tu contraseña">
+                <div><label for="Password">Contraseña</label
+                    ><input type="password" name="Password" placeholder="ingresa tu contraseña">
                 </div>
 
                 <div><label for="CContrasena">Confirma tu contraseña</label>
-                    <input type="password" placeholder="ingresa tu contraseña">
+                    <input type="password" name="" placeholder="ingresa tu contraseña">
                 </div>
-
+                <div class="bton">
+                <button type="submit" class="" asp-page-handler="Add">Registrarse</button>
+                </div>
                
             </form>
-            <div class="boton">
-                <button type="button">Registrarse</button>
-            </div>
         </div>
     </div>
 </body>

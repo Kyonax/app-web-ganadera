@@ -1,19 +1,22 @@
 
 .form__container {
   font-family: "Roboto", sans-serif;
-  margin: 20px;
   box-sizing: border-box;
   border: 2px solid black;
   border-radius: 10%;
   padding: 30px;
   box-shadow: 7px 7px 0px 0px #1b99cf;
   width: 40vw;
-  height: 80vh;
+  height: 81vh;
   text-align: center;
   background-color: white;
 }
+h2{
+  font-size:1.5vw;
+}
 h3 {
-  margin: 20px 0px;
+  font-size:1vw;
+  margin: 1vw 0px;
 }
 form {
   display: grid;
@@ -31,7 +34,7 @@ form input {
   border-radius: 2vw;
   background: rgb(216, 216, 216);
   border: 1px solid gray;
-  margin: 10px;
+  margin: 5px;
   box-shadow: 1px 1px 2px 0px gray;
   width: 75%;
 }
@@ -57,10 +60,13 @@ form label {
   margin-bottom: 4vh;
 }
 
+
 button {
+  margin: auto;
+  display:block;
   box-sizing: border-box;
   color: white;
-  width: 12vw;
+  width: 15vw;
   height: 5vh;
   padding: 0.5vw;
   border-radius: 2vw;

@@ -17,5 +17,9 @@ namespace Ganaderia.App.Presentacion.Pages
         {
             Vets = _repoVet.GetAllVets();
         }
+        public void OnPostDelete(int id){
+        _repoVet.DeleteVet(id);
+        Vets = _repoVet.GetAllVets();
+        }
     }
 }
